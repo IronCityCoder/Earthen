@@ -6,4 +6,4 @@ Earthen is an open-source novel. To join the project visit our [sub-reddit](http
 
 ## Table of Contents
 
-- [0. Prologue](https://github.com/IronCityCoder/Earthen/tree/master/Prologue)
+  0. [Prologue](https://github.com/IronCityCoder/Earthen/tree/master/Prologue)
